@@ -1,0 +1,123 @@
+Digitizer: Digidata 132x : target 4
+Analog input channels: 16 
+Analog output channels: 2 
+Supports digital I/O: true 
+
+
+
+
+===================================================
+
+Started a New Data File Series on Wed Sep 6 2017
+
+===================================================
+
+----------------------------------
+Start data acquisition at 13:53:20
+Protocol name  : CA3-CCIV.prt
+Data file name : CCIV 001
+
+----------------------------------
+Start data acquisition at 13:55:37
+Protocol name  : 10-2s_R0.75_0.6to0.85_SFrange_PoissonFR
+Data not saved
+
+----------------------------------
+Start data acquisition at 13:55:50
+Protocol name  : 10-2s_R0.75_0.6to0.85_SFrange_PoissonFR
+Data not saved
+
+----------------------------------
+Start data acquisition at 13:55:58
+Protocol name  : 10-2s_R0.75_0.6to0.85_SFrange_PoissonFR
+Data not saved
+
+----------------------------------
+Start data acquisition at 13:56:10
+Protocol name  : 10-2s_R0.75_0.6to0.85_SFrange_PoissonFR
+Data file name : CCIV 002
+
+----------------------------------
+Start data acquisition at 15:04:23
+Protocol name  : CA3-CCIV.prt
+Data file name : CCIV 003
+
+----------------------------------
+Start data acquisition at 15:05:49
+Protocol name  : 10-2s_R0.75_0.6to0.85_SFrange_PoissonFR
+Data not saved
+
+----------------------------------
+Start data acquisition at 15:06:04
+Protocol name  : 10-2s_R0.75_0.6to0.85_SFrange_PoissonFR
+Data not saved
+
+----------------------------------
+Start data acquisition at 15:06:13
+Protocol name  : 10-2s_R0.75_0.6to0.85_SFrange_PoissonFR
+Data file name : CCIV 004
+
+----------------------------------
+Start data acquisition at 15:14:20
+Protocol name  : 10_2s_10Hz_SFrange_Burstiness
+Data file name : CCIV 005
+
+----------------------------------
+Start data acquisition at 15:16:22
+Protocol name  : 10Hz_R0.750_CorrelatedPoisson.prt
+Data not saved
+
+----------------------------------
+Start data acquisition at 15:16:38
+Protocol name  : 10Hz_R0.750_CorrelatedPoisson.prt
+Data file name : CCIV 006
+
+----------------------------------
+Start data acquisition at 15:24:35
+Protocol name  : 10_2s_10Hz_SFrange_Burstiness
+Data file name : CCIV 007
+
+----------------------------------
+Start data acquisition at 15:31:26
+Protocol name  : scaledESPCsProtocol.prt
+Data file name : CCIV 008
+
+----------------------------------
+Start data acquisition at 15:45:01
+Protocol name  : CA3-CCIV.prt
+Data file name : CCIV 009
+
+----------------------------------
+Start data acquisition at 15:48:04
+Protocol name  : 10-2s_R0.75_0.6to0.85_SFrange_PoissonFR
+Data not saved
+
+----------------------------------
+Start data acquisition at 15:48:17
+Protocol name  : 10-2s_R0.75_0.6to0.85_SFrange_PoissonFR
+Data not saved
+
+----------------------------------
+Start data acquisition at 15:48:38
+Protocol name  : 10-2s_R0.75_0.6to0.85_SFrange_PoissonFR
+Data not saved
+
+----------------------------------
+Start data acquisition at 15:48:50
+Protocol name  : 10-2s_R0.75_0.6to0.85_SFrange_PoissonFR
+Data not saved
+
+----------------------------------
+Start data acquisition at 15:49:00
+Protocol name  : 10-2s_R0.75_0.6to0.85_SFrange_PoissonFR
+Data file name : CCIV 010
+
+----------------------------------
+Start data acquisition at 15:56:26
+Protocol name  : 10Hz_R0.750_CorrelatedPoisson.prt
+Data file name : CCIV 011
+
+----------------------------------
+Start data acquisition at 16:08:35
+Protocol name  : CA3-CCIV.prt
+Data file name : CCIV 012

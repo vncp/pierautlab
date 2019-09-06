@@ -1,0 +1,196 @@
+----------------------------------
+At 14:37:28
+Channel #1 
+Series Resistance         =  7.05  MOhm    
+Membrane Capacitance  =  14.5  pF  
+Input Resistance           =  462  MOhm   
+Channel #1 
+Series Resistance         =  7.05  MOhm    
+Membrane Capacitance  =  14.5  pF  
+Input Resistance           =  462  MOhm   
+
+----------------------------------
+Start data acquisition at 14:39:48
+Protocol name  : PairedPulse.prt
+Data not saved
+----------------------------------
+At 15:12:40
+Channel #1 
+Series Resistance         =  4.69  MOhm    
+Membrane Capacitance  =  25  pF  
+Input Resistance           =  461  MOhm   
+Channel #1 
+Series Resistance         =  4.69  MOhm    
+Membrane Capacitance  =  25  pF  
+Input Resistance           =  461  MOhm   
+----------------------------------
+At 15:54:16
+Channel #1 
+Series Resistance         =  8.16  MOhm    
+Membrane Capacitance  =  14.1  pF  
+Input Resistance           =  289  MOhm   
+Channel #1 
+Series Resistance         =  8.16  MOhm    
+Membrane Capacitance  =  14.1  pF  
+Input Resistance           =  289  MOhm   
+
+----------------------------------
+Start data acquisition at 15:56:59
+Protocol name  : PairedPulse.prt
+Data not saved
+
+----------------------------------
+Start data acquisition at 15:58:53
+Protocol name  : PairedPulse.prt
+Data not saved
+
+===================================================
+
+Started a New Data File Series on Thu Aug 11 2011
+
+===================================================
+
+----------------------------------
+Start data acquisition at 15:59:25
+Protocol name  : PairedPulse.prt
+Data file name : FindStim 001
+
+----------------------------------
+Start data acquisition at 16:07:50
+Protocol name  : 30sec_10Hz_Rhytmic.prt
+Data not saved
+----------------------------------
+At 16:35:19
+Channel #1 
+Series Resistance         =  4.54  MOhm    
+Membrane Capacitance  =  23  pF  
+Input Resistance           =  175  MOhm   
+Channel #1 
+Series Resistance         =  4.54  MOhm    
+Membrane Capacitance  =  23  pF  
+Input Resistance           =  175  MOhm   
+
+===================================================
+
+Started a New Data File Series on Thu Aug 11 2011
+
+===================================================
+
+----------------------------------
+Start data acquisition at 16:38:13
+Protocol name  : PairedPulse.prt
+Data file name : FindStim 001
+
+===================================================
+
+Started a New Data File Series on Thu Aug 11 2011
+
+===================================================
+
+----------------------------------
+Start data acquisition at 16:40:21
+Protocol name  : 30sec_10Hz_Rhytmic.prt
+Data file name : Rev 001
+
+===================================================
+
+Started a New Data File Series on Thu Aug 11 2011
+
+===================================================
+
+----------------------------------
+Start data acquisition at 16:42:55
+Protocol name  : 10Hz_R0.975_CorrelatedPoisson.prt
+Data file name : R0.975 001
+
+===================================================
+
+Started a New Data File Series on Thu Aug 11 2011
+
+===================================================
+
+----------------------------------
+Start data acquisition at 16:50:19
+Protocol name  : 10Hz_R0.950_CorrelatedPoisson.prt
+Data file name : R0.95 001
+
+===================================================
+
+Started a New Data File Series on Thu Aug 11 2011
+
+===================================================
+
+----------------------------------
+Start data acquisition at 16:58:47
+Protocol name  : 10Hz_R0.750_CorrelatedPoisson.prt
+Data file name : R0.75 001
+
+===================================================
+
+Started a New Data File Series on Thu Aug 11 2011
+
+===================================================
+
+----------------------------------
+Start data acquisition at 17:09:14
+Protocol name  : 10Hz_R0.500_CorrelatedPoisson.prt
+Data file name : R0.5 001
+
+===================================================
+
+Started a New Data File Series on Thu Aug 11 2011
+
+===================================================
+
+----------------------------------
+Start data acquisition at 17:16:07
+Protocol name  : 5Hz_R0.749_CorrelatedPoisson.prt
+Data file name : 5HzR0.75 001
+
+===================================================
+
+Started a New Data File Series on Thu Aug 11 2011
+
+===================================================
+
+----------------------------------
+Start data acquisition at 17:22:39
+Protocol name  : 30Hz_R0.750_CorrelatedPoisson.prt
+Data file name : 30HzR0.75 001
+
+----------------------------------
+Start data acquisition at 17:26:05
+Protocol name  : 30Hz_R0.750_CorrelatedPoisson.prt
+Data not saved
+----------------------------------
+At 17:31:37
+Channel #1 
+Series Resistance         =  4.54  MOhm    
+Membrane Capacitance  =  21.4  pF  
+Input Resistance           =  247  MOhm   
+Channel #1 
+Series Resistance         =  4.54  MOhm    
+Membrane Capacitance  =  21.4  pF  
+Input Resistance           =  247  MOhm   
+
+===================================================
+
+Started a New Data File Series on Thu Aug 11 2011
+
+===================================================
+
+----------------------------------
+Start data acquisition at 17:33:44
+Protocol name  : PairedPulse.prt
+Data file name : FindStim 001
+
+===================================================
+
+Started a New Data File Series on Thu Aug 11 2011
+
+===================================================
+
+----------------------------------
+Start data acquisition at 17:37:53
+Protocol name  : 30sec_10Hz_Rhytmic.prt
+Data file name : REV 001

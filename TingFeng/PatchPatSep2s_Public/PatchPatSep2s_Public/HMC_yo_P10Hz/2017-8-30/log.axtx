@@ -1,0 +1,123 @@
+Digitizer: Digidata 132x : target 4
+Analog input channels: 16 
+Analog output channels: 2 
+Supports digital I/O: true 
+
+
+
+
+===================================================
+
+Started a New Data File Series on Wed Aug 30 2017
+
+===================================================
+
+----------------------------------
+Start data acquisition at 14:39:10
+Protocol name  : CA3-CCIV.prt
+Data file name : CCIV 001
+
+----------------------------------
+Start data acquisition at 14:41:10
+Protocol name  : 10Hz_R0.750_CorrelatedPoisson.prt
+Data not saved
+
+----------------------------------
+Start data acquisition at 14:41:26
+Protocol name  : 10Hz_R0.750_CorrelatedPoisson.prt
+Data file name : CCIV 002
+
+----------------------------------
+Start data acquisition at 15:22:53
+Protocol name  : CA3-CCIV.prt
+Data file name : CCIV 003
+
+----------------------------------
+Start data acquisition at 15:24:09
+Protocol name  : 10Hz_R0.750_CorrelatedPoisson.prt
+Data not saved
+
+----------------------------------
+Start data acquisition at 15:24:27
+Protocol name  : 10Hz_R0.750_CorrelatedPoisson.prt
+Data not saved
+
+----------------------------------
+Start data acquisition at 15:24:42
+Protocol name  : 10Hz_R0.750_CorrelatedPoisson.prt
+Data not saved
+
+----------------------------------
+Start data acquisition at 15:24:58
+Protocol name  : 10Hz_R0.750_CorrelatedPoisson.prt
+Data file name : CCIV 004
+
+----------------------------------
+Start data acquisition at 15:35:07
+Protocol name  : 10Hz_R0.250_CorrelatedPoisson.prt
+Data not saved
+
+----------------------------------
+Start data acquisition at 15:35:37
+Protocol name  : 10Hz_R0.250_CorrelatedPoisson.prt
+Data file name : CCIV 005
+
+----------------------------------
+Start data acquisition at 15:45:47
+Protocol name  : 10Hz_R0.500_CorrelatedPoisson.prt
+Data file name : CCIV 006
+
+----------------------------------
+Start data acquisition at 16:11:10
+Protocol name  : CA3-CCIV.prt
+Data file name : CCIV 007
+
+----------------------------------
+Start data acquisition at 16:13:08
+Protocol name  : 10Hz_R0.750_CorrelatedPoisson.prt
+Data not saved
+
+----------------------------------
+Start data acquisition at 16:13:42
+Protocol name  : 10Hz_R0.750_CorrelatedPoisson.prt
+Data not saved
+
+----------------------------------
+Start data acquisition at 16:13:51
+Protocol name  : 10Hz_R0.750_CorrelatedPoisson.prt
+Data file name : CCIV 008
+
+----------------------------------
+Start data acquisition at 16:22:17
+Protocol name  : 10Hz_R0.250_CorrelatedPoisson.prt
+Data not saved
+
+----------------------------------
+Start data acquisition at 16:22:39
+Protocol name  : 10Hz_R0.250_CorrelatedPoisson.prt
+Data file name : CCIV 009
+
+----------------------------------
+Start data acquisition at 16:31:02
+Protocol name  : 10Hz_R0.500_CorrelatedPoisson.prt
+Data file name : CCIV 010
+
+----------------------------------
+Start data acquisition at 16:51:57
+Protocol name  : CA3-CCIV.prt
+Data file name : CCIV 011
+
+----------------------------------
+Start data acquisition at 16:53:42
+Protocol name  : 10Hz_R0.750_CorrelatedPoisson.prt
+Data not saved
+
+----------------------------------
+Start data acquisition at 16:54:01
+Protocol name  : 10Hz_R0.750_CorrelatedPoisson.prt
+Data not saved
+
+----------------------------------
+Start data acquisition at 16:54:41
+Protocol name  : 10Hz_R0.750_CorrelatedPoisson.prt
+Data file name : CCIV 012

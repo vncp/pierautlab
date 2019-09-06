@@ -1,0 +1,213 @@
+Digitizer: Digidata 132x : target 4
+Analog input channels: 16 
+Analog output channels: 2 
+Supports digital I/O: true 
+
+
+
+
+===================================================
+
+Started a New Data File Series on Wed Aug 9 2017
+
+===================================================
+
+----------------------------------
+Start data acquisition at 15:30:52
+Protocol name  : CA3-CCIV.prt
+Data file name : CCIV 001
+
+----------------------------------
+Start data acquisition at 15:33:03
+Protocol name  : 30Hz_R0.750_CorrelatedPoisson.prt
+Data not saved
+
+----------------------------------
+Start data acquisition at 15:33:19
+Protocol name  : 30Hz_R0.750_CorrelatedPoisson.prt
+Data not saved
+
+----------------------------------
+Start data acquisition at 15:33:44
+Protocol name  : 30Hz_R0.750_CorrelatedPoisson.prt
+Data not saved
+
+----------------------------------
+Start data acquisition at 15:33:57
+Protocol name  : 30Hz_R0.750_CorrelatedPoisson.prt
+Data not saved
+
+----------------------------------
+Start data acquisition at 15:34:11
+Protocol name  : 30Hz_R0.750_CorrelatedPoisson.prt
+Data not saved
+
+----------------------------------
+Start data acquisition at 15:34:42
+Protocol name  : 30Hz_R0.750_CorrelatedPoisson.prt
+Data file name : CCIV 002
+
+----------------------------------
+Start data acquisition at 15:42:47
+Protocol name  : 30Hz_Poisson_R0.25_100msbin
+Data file name : CCIV 003
+
+----------------------------------
+Start data acquisition at 16:02:38
+Protocol name  : CA3-CCIV.prt
+Data file name : CCIV 004
+
+----------------------------------
+Start data acquisition at 16:05:21
+Protocol name  : 30Hz_Poisson_R0.25_100msbin
+Data not saved
+
+----------------------------------
+Start data acquisition at 16:05:35
+Protocol name  : 30Hz_Poisson_R0.25_100msbin
+Data not saved
+
+----------------------------------
+Start data acquisition at 16:06:05
+Protocol name  : 30Hz_Poisson_R0.25_100msbin
+Data not saved
+
+----------------------------------
+Start data acquisition at 16:06:27
+Protocol name  : 30Hz_Poisson_R0.25_100msbin
+Data file name : CCIV 005
+
+----------------------------------
+Start data acquisition at 16:14:08
+Protocol name  : 30Hz_R0.750_CorrelatedPoisson.prt
+Data not saved
+
+----------------------------------
+Start data acquisition at 16:14:20
+Protocol name  : 30Hz_R0.750_CorrelatedPoisson.prt
+Data not saved
+
+----------------------------------
+Start data acquisition at 16:14:43
+Protocol name  : 30Hz_R0.750_CorrelatedPoisson.prt
+Data not saved
+
+----------------------------------
+Start data acquisition at 16:14:52
+Protocol name  : 30Hz_R0.750_CorrelatedPoisson.prt
+Data file name : CCIV 006
+
+----------------------------------
+Start data acquisition at 16:49:38
+Protocol name  : CA3-CCIV.prt
+Data file name : CCIV 007
+
+----------------------------------
+Start data acquisition at 16:51:16
+Protocol name  : 30Hz_Poisson_R0.25_100msbin
+Data not saved
+
+----------------------------------
+Start data acquisition at 16:51:30
+Protocol name  : 30Hz_Poisson_R0.25_100msbin
+Data not saved
+
+----------------------------------
+Start data acquisition at 16:51:55
+Protocol name  : 30Hz_Poisson_R0.25_100msbin
+Data not saved
+
+----------------------------------
+Start data acquisition at 16:54:45
+Protocol name  : 30Hz_Poisson_R0.25_100msbin
+Data not saved
+
+----------------------------------
+Start data acquisition at 16:55:52
+Protocol name  : 30Hz_Poisson_R0.25_100msbin
+Data not saved
+
+----------------------------------
+Start data acquisition at 16:56:21
+Protocol name  : 30Hz_Poisson_R0.25_100msbin
+Data not saved
+
+----------------------------------
+Start data acquisition at 16:56:29
+Protocol name  : 30Hz_Poisson_R0.25_100msbin
+Data not saved
+
+----------------------------------
+Start data acquisition at 16:56:59
+Protocol name  : 30Hz_Poisson_R0.25_100msbin
+Data not saved
+
+----------------------------------
+Start data acquisition at 16:57:07
+Protocol name  : 30Hz_Poisson_R0.25_100msbin
+Data not saved
+
+----------------------------------
+Start data acquisition at 16:57:19
+Protocol name  : 30Hz_Poisson_R0.25_100msbin
+Data not saved
+
+----------------------------------
+Start data acquisition at 16:57:29
+Protocol name  : 30Hz_Poisson_R0.25_100msbin
+Data not saved
+
+----------------------------------
+Start data acquisition at 16:58:01
+Protocol name  : 30Hz_Poisson_R0.25_100msbin
+Data not saved
+
+----------------------------------
+Start data acquisition at 16:58:15
+Protocol name  : 30Hz_Poisson_R0.25_100msbin
+Data not saved
+
+----------------------------------
+Start data acquisition at 16:58:26
+Protocol name  : 30Hz_Poisson_R0.25_100msbin
+Data not saved
+
+----------------------------------
+Start data acquisition at 17:50:05
+Protocol name  : CA3-CCIV.prt
+Data file name : CCIV 008
+
+----------------------------------
+Start data acquisition at 17:51:30
+Protocol name  : 30Hz_Poisson_R0.25_100msbin
+Data not saved
+
+----------------------------------
+Start data acquisition at 17:51:43
+Protocol name  : 30Hz_Poisson_R0.25_100msbin
+Data not saved
+
+----------------------------------
+Start data acquisition at 17:52:02
+Protocol name  : 30Hz_Poisson_R0.25_100msbin
+Data not saved
+
+----------------------------------
+Start data acquisition at 17:52:10
+Protocol name  : 30Hz_Poisson_R0.25_100msbin
+Data file name : CCIV 009
+
+----------------------------------
+Start data acquisition at 17:59:37
+Protocol name  : 30Hz_R0.750_CorrelatedPoisson.prt
+Data not saved
+
+----------------------------------
+Start data acquisition at 17:59:49
+Protocol name  : 30Hz_R0.750_CorrelatedPoisson.prt
+Data file name : CCIV 010
+
+----------------------------------
+Start data acquisition at 18:08:37
+Protocol name  : 30Hz_R0.750_CorrelatedPoisson.prt
+Data not saved

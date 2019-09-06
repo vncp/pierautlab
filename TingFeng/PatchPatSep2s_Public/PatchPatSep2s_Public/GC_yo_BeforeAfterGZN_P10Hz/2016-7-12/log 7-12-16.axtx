@@ -1,0 +1,114 @@
+Digitizer: Digidata 132x : target 4
+Analog input channels: 16 
+Analog output channels: 2 
+Supports digital I/O: true 
+
+
+
+
+====================================================
+
+Started a New Chart File Series on Tue Jul 12 2016
+
+====================================================
+----------------------------------
+Created new chart at 16:59:27
+Chart file name : ChartGC 003
+Saved chart to read-only file
+----------------------------------
+Created new chart at 17:27:40
+Chart file name : ChartGC 004
+
+===================================================
+
+Started a New Data File Series on Tue Jul 12 2016
+
+===================================================
+
+----------------------------------
+Start data acquisition at 17:28:09
+Protocol name  : CA3-CCIV.prt
+Data file name : cciv 006
+
+----------------------------------
+Start data acquisition at 17:30:17
+Protocol name  : 10Hz_R0.750_CorrelatedPoisson.prt
+Data not saved
+
+----------------------------------
+Start data acquisition at 17:31:17
+Protocol name  : 10Hz_R0.750_CorrelatedPoisson.prt
+Data not saved
+
+----------------------------------
+Start data acquisition at 17:31:46
+Protocol name  : 10Hz_R0.750_CorrelatedPoisson.prt
+Data not saved
+
+----------------------------------
+Start data acquisition at 17:32:54
+Protocol name  : 10Hz_R0.750_CorrelatedPoisson.prt
+Data not saved
+
+----------------------------------
+Start data acquisition at 17:33:01
+Protocol name  : 10Hz_R0.750_CorrelatedPoisson.prt
+Data not saved
+
+----------------------------------
+Start data acquisition at 17:33:15
+Protocol name  : 10Hz_R0.750_CorrelatedPoisson.prt
+Data not saved
+
+----------------------------------
+Start data acquisition at 17:33:31
+Protocol name  : 10Hz_R0.750_CorrelatedPoisson.prt
+Data not saved
+
+----------------------------------
+Start data acquisition at 17:34:12
+Protocol name  : 10Hz_R0.750_CorrelatedPoisson.prt
+Data not saved
+
+----------------------------------
+Start data acquisition at 17:34:21
+Protocol name  : 10Hz_R0.750_CorrelatedPoisson.prt
+Data not saved
+
+----------------------------------
+Start data acquisition at 17:35:17
+Protocol name  : 10Hz_R0.750_CorrelatedPoisson.prt
+Data not saved
+
+----------------------------------
+Start data acquisition at 17:35:25
+Protocol name  : 10Hz_R0.750_CorrelatedPoisson.prt
+Data file name : cciv 007
+----------------------------------
+Created new chart at 17:43:30
+Chart file name : ChartGC 005
+
+----------------------------------
+Start data acquisition at 17:50:47
+Protocol name  : 10Hz_R0.750_CorrelatedPoisson.prt
+Data not saved
+
+----------------------------------
+Start data acquisition at 17:50:52
+Protocol name  : 10Hz_R0.750_CorrelatedPoisson.prt
+Data file name : cciv 008
+
+----------------------------------
+Start data acquisition at 17:58:22
+Protocol name  : 10Hz_R0.950_CorrelatedPoisson.prt
+Data not saved
+
+----------------------------------
+Start data acquisition at 17:58:28
+Protocol name  : 10Hz_R0.950_CorrelatedPoisson.prt
+Data file name : cciv 009
+
+----------------------------------
+Start data acquisition at 18:06:13
+Protocol name  : 10Hz_R0.750_CorrelatedPoisson.prt
+Data file name : cciv 010
