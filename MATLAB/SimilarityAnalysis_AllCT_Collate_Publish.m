@@ -677,33 +677,40 @@ for b = 1:length(tau)
         EE_matrix = 2*ones(1,150);
         SH_matrix = ones(1,150);
         GroupBlock_a = (cat(2, EE_matrix, SH_matrix)).'; %2 x150 the 1 x150 in a single col, similarly to the PoolX and PoolY data
-        [Hanc{b},TABanc{b},COEFanc{b},Sanc{b}] = aoctool(PoolX, PoolY, GroupBlock_a, 0.05,'Stim','Output','Protocol','off','separate lines');
-        COMPancS{b} = multcompare(Sanc{b}, 'Alpha', .05, 'Estimate', 'slope', 'display','off');
-        COMPancInt{b} = multcompare(Sanc{b}, 'Alpha', .05, 'Estimate', 'intercept', 'display','off');
-        [MAT_pvalS_SF{b}, MAT4_pS{b} ] = pvalmat(COMPancS{b});
-        [MAT_pvalI_SF{b}, MAT4_pI{b} ] = pvalmat(COMPancInt{b});
+        %[Hanc{b},TABanc{b},COEFanc{b},Sanc{b}] = aoctool(PoolX, PoolY, GroupBlock_a, 0.05,'Stim','Output','Protocol','off','separate lines');
+        %COMPancS{b} = multcompare(Sanc{b}, 'Alpha', .05, 'Estimate', 'slope', 'display','off');
+        %COMPancInt{b} = multcompare(Sanc{b}, 'Alpha', .05, 'Estimate', 'intercept', 'display','off');
+        %[MAT_pvalS_SF{b}, MAT4_pS{b} ] = pvalmat(COMPancS{b});
+        %[MAT_pvalI_SF{b}, MAT4_pI{b} ] = pvalmat(COMPancInt{b});
+        disp('CALCULATING SF STATS:');
+        result_SF = f_ancova(PoolY,GroupBlock_a,PoolX, 3000, 1, .05);
 
         PoolX = (cat(1, StimPairAll_R{2}{b}, StimPairAll_R{1}{b}));
         PoolY = (cat(1, OutPairAll_R{2}{b}, OutPairAll_R{1}{b}));
         EE_matrix = 2*ones(1,150);
         SH_matrix = ones(1,150);
         GroupBlock_a = (cat(2, EE_matrix, SH_matrix)).'; %2 x150 the 1 x150 in a single col, similarly to the PoolX and PoolY data
-        [Hanc{b},TABanc{b},COEFanc{b},Sanc{b}] = aoctool(PoolX, PoolY, GroupBlock_a, 0.05,'Stim','Output','Protocol','off','separate lines');
-        COMPancS{b} = multcompare(Sanc{b}, 'Alpha', .05, 'Estimate', 'slope', 'display','off');
-        COMPancInt{b} = multcompare(Sanc{b}, 'Alpha', .05, 'Estimate', 'intercept', 'display','off');
-        [MAT_pvalS_R{b}, MAT4_pS{b} ] = pvalmat(COMPancS{b});
-        [MAT_pvalI_R{b}, MAT4_pI{b} ] = pvalmat(COMPancInt{b});
+        %[Hanc{b},TABanc{b},COEFanc{b},Sanc{b}] = aoctool(PoolX, PoolY, GroupBlock_a, 0.05,'Stim','Output','Protocol','off','separate lines');
+        %COMPancS{b} = multcompare(Sanc{b}, 'Alpha', .05, 'Estimate', 'slope', 'display','off');
+        %COMPancInt{b} = multcompare(Sanc{b}, 'Alpha', .05, 'Estimate', 'intercept', 'display','off');
+        %[MAT_pvalS_R{b}, MAT4_pS{b} ] = pvalmat(COMPancS{b});
+        %[MAT_pvalI_R{b}, MAT4_pI{b} ] = pvalmat(COMPancInt{b});
+        disp('CALCULATING R STATS:');
+        result_R = f_ancova(PoolY,GroupBlock_a,PoolX, 3000, 1, .05);
 
         PoolX = (cat(1, StimPairAll_NDP{2}{b}, StimPairAll_NDP{1}{b}));
         PoolY = (cat(1, OutPairAll_NDP{2}{b}, OutPairAll_NDP{1}{b}));
         EE_matrix = 2*ones(1,150);
         SH_matrix = ones(1,150);
         GroupBlock_a = (cat(2, EE_matrix, SH_matrix)).'; %2 x150 the 1 x150 in a single col, similarly to the PoolX and PoolY data
-        [Hanc{b},TABanc{b},COEFanc{b},Sanc{b}] = aoctool(PoolX, PoolY, GroupBlock_a, 0.05,'Stim','Output','Protocol','off','separate lines');
-        COMPancS{b} = multcompare(Sanc{b}, 'Alpha', .05, 'Estimate', 'slope', 'display','off');
-        COMPancInt{b} = multcompare(Sanc{b}, 'Alpha', .05, 'Estimate', 'intercept', 'display','off');
-        [MAT_pvalS_NDP{b}, MAT4_pS{b} ] = pvalmat(COMPancS{b});
-        [MAT_pvalI_NDP{b}, MAT4_pI{b} ] = pvalmat(COMPancInt{b});
+        %[Hanc{b},TABanc{b},COEFanc{b},Sanc{b}] = aoctool(PoolX, PoolY, GroupBlock_a, 0.05,'Stim','Output','Protocol','off','separate lines');
+        %COMPancS{b} = multcompare(Sanc{b}, 'Alpha', .05, 'Estimate', 'slope', 'display','off');
+        %COMPancInt{b} = multcompare(Sanc{b}, 'Alpha', .05, 'Estimate', 'intercept', 'display','off');
+        %[MAT_pvalS_NDP{b}, MAT4_pS{b} ] = pvalmat(COMPancS{b});
+        %[MAT_pvalI_NDP{b}, MAT4_pI{b} ] = pvalmat(COMPancInt{b});
+        disp('CALCULATING NDP STATS:');
+        result_NDP = f_ancova(PoolY,GroupBlock_a,PoolX, 3000, 1, .05);
+
     end
 
 
@@ -721,7 +728,7 @@ for b = 1:length(tau)
         ylabel('pw Sout')
         set(gca, 'xlim', [0 1], 'ylim', [0 1])
         if b == 2
-            title(['R ' num2str(Xbinsize(okb)) 'ms, p(S) = ' num2str(MAT_pvalS_R{2}(2,1)) ', p(I) = ' num2str(MAT_pvalI_R{2}(2,1))])
+            title(['R ' num2str(Xbinsize(okb)) 'ms, p(S) = ' num2str(result_R.p_slope) ', p(Rx) = ' num2str(result_R.p_Rx)])
         else
             title(['R ' num2str(Xbinsize(okb)) 'ms'])
         end
@@ -742,7 +749,7 @@ for b = 1:length(tau)
         ylabel('pw Sout')
         set(gca, 'xlim', [0 1], 'ylim', [0 1])
         if b == 2
-            title(['NDP ' num2str(Xbinsize(okb)) 'ms, p(S) = ' num2str(MAT_pvalS_NDP{2}(2,1)) ', p(I) = ' num2str(MAT_pvalI_R{2}(2,1))])
+            title(['NDP ' num2str(Xbinsize(okb)) 'ms, p(S) = ' num2str(result_NDP.p_slope) ', p(Rx) = ' num2str(result_NDP.p_Rx)])
         else
             title(['NDP ' num2str(Xbinsize(okb)) 'ms'])
         end
@@ -762,7 +769,7 @@ for b = 1:length(tau)
         ylabel('pw Sout')
         set(gca, 'xlim', [0.4 1], 'ylim', [0.4 1])
         if b == 2
-            title(['SF ' num2str(Xbinsize(okb)) 'ms, p(S) = ' num2str(MAT_pvalS_SF{2}(2,1)) ', p(I) = ' num2str(MAT_pvalI_R{2}(2,1))])
+            title(['SF ' num2str(Xbinsize(okb)) 'ms, p(S) = ' num2str(result_SF.p_slope) ', p(Rx) = ' num2str(result_SF.p_Rx)])
         else
             title(['SF ' num2str(Xbinsize(okb)) 'ms'])
         end
